@@ -1,0 +1,20 @@
+.box1{
+    background-color: tomato;
+    width: 500px;
+    height: 400px;
+    align-items: center;
+    margin: 0 auto;
+    margin-top:5%;
+    display: flex;
+    justify-content: center;   
+}
+
+.box2{
+    width: 150px;
+    height: 100px;
+    background-color: rgb(90, 71, 116);
+    margin: 0 auto;
+    /* border: 5px solid blue; */
+    padding-top: 50px;
+}
+}
